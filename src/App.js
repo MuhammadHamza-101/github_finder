@@ -9,7 +9,7 @@ class App extends Component {
 
     return (
       <>
-        <Navbar />
+        <Navbar name={"Github Finder"} />
       </>
     );
   }
